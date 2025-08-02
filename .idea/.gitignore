@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore compiled class files
+*.class
+
+# IntelliJ-specific folders
+out/
+.idea/
